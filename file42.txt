@@ -1,0 +1,3 @@
+Description: File that contains the Answer to the Ultimate Questiion of Life, the Universe and Everything
+
+The Answer is: 42
